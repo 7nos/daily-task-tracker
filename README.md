@@ -10,7 +10,6 @@ Competitive exams (GATE, CAT, etc.)
 🛠️ Tech Stack
 Frontend: React.js, HTML, CSS, Tailwind
 Backend: Node.js, Express.js
-Database: MongoDB (for storing user data, questions, submissions)
 Tools: VS Code, Postman, GitHub
 🚀 Features
 🧠 Daily aptitude problems from core topics:
